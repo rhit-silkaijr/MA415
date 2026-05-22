@@ -10,7 +10,20 @@ In order to run the code, preprocessing must first be done by running the Prepro
 
 # Packages
 
+The following packages must be installed in order for all relevant code to be fully runnable
 
+numpy
+pandas
+sklearn.ensemble
+sklearn.tree
+sklearn.metrics
+plotly.express
+sklearn.linear_model
+sklearn.preprocessing
+sklearn.model_selection
+sklearn.ensemble
+sklearn.decomposition
+matplotlib.pyplot
 
 # Where the data came from
 
