@@ -28,7 +28,7 @@ matplotlib.pyplot
 
 # Where the data came from
 
-All data was sourced from https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS, and is present in ExoplanetArchiveAll.csv and ExoplanetArchiveValuesOnly.csv. All data 
+All data was sourced from https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS, and is present in ExoplanetArchiveAll.csv and ExoplanetArchiveValuesOnly.csv. All data resulting from this is processed internally to create multiple other .csv files that can be used in model training.
 
 # Where it must go
 
