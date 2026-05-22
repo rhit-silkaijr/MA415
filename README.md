@@ -6,7 +6,7 @@ This repository is meant to act on the NASA Exoplanet Archive information in ord
 
 # How to run
 
-In order to run the code, preprocessing must first be done by running the Preprocessing_ipynb file - which also contains the baseline models and accuracy - as well as the file for regularization to generate the full datasets. Then, any .ipynb file with a relevant model (Ones starting with RANDOM_FOREST or Gradient_Boosting_trees) can be run fully to train and evaluate a model. Demo.ipynb can also be run to create the best model and evaluate its performance on data points.
+In order to run the code, preprocessing must first be done by running the Preprocessing_ipynb file - which also contains the baseline models and accuracy - as well as the file for regularization to generate the full datasets. From here RANDOM_FOREST.ipynb, PCA_Gradient_Boosting_Trees.ipynb, and Gradient_Boosting_Trees.ipynb are capable of being ran to fully to train and evaluate these models. Prior to the running of the Gradient_Boosting_Trees_Post_Lasso.ipynb and the RANDOM_FOREST_Feature Engineering, the file Linear_with_feature_engineering.ipynb. The Demo.ipynb can also be run to create the best model and evaluate its performance on data points.
 
 # Packages
 
