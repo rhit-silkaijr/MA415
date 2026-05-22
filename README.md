@@ -23,6 +23,7 @@ sklearn.preprocessing
 sklearn.model_selection
 sklearn.ensemble
 sklearn.decomposition
+sklearn.neighbors
 matplotlib.pyplot
 
 # Where the data came from
